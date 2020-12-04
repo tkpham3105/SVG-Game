@@ -2,6 +2,6 @@ HKUST
 
 COMP 4021
 
-Assignment 1
+Assignment 2
 
-JQuery Project
+SVG Game
