@@ -1,0 +1,1 @@
+To view SVG content, please use Google Chrome!
